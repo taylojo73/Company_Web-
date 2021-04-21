@@ -1,0 +1,15 @@
+
+<HTML>
+
+<HEAD>
+
+<TITLE>Taylor</TITLE>
+
+</Read>
+
+<Body BGCOLOR="FFFFFF">
+
+<CENTER><IMG SRC ="T.JPG" ALIGN="BOTTOM" height="250" width="400">
+</ENTER>
+
+<HR>
